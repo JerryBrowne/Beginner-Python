@@ -1,0 +1,55 @@
+120 mins to fill
+
+Introduction - 5 Mins
+
+What is a program and what is Python? - 5 mins
+
+	Data Science, Artificial Intelligence, Web Development -> Incredibly Versatile
+
+IDLE Shell - 5/10 mins
+
+Data types - 5 mins
+
+	ints, floats, string, booleans
+	
+	converting between strings and floats
+
+Operators - 10 mins
+
+	+, -, *, /, //, **, %
+
+	order of operations
+
+	Operators work on floats and ints
+
+	add and mul operator with str
+
+Variables - 10 mins
+
+	Incrementing variables too shorthand
+	
+	Assigning multiple variables at once
+
+programs vs idle - 5/10 mins
+
+Exercises - 15mins
+
+	Basic adding program
+	
+	Subsequent number problem
+	
+	Hours -> minutes -> seconds program
+	
+	Time until program 
+	
+Input - 5/10 mins
+
+	Reading in strings
+	
+	Reading in multiple values
+	
+	Reading in numbers
+
+	Modify previous scripts to use input
+
+Extra resources + outro - 10 mins
